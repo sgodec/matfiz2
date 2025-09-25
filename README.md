@@ -3,6 +3,7 @@
 Final project for the *Mathematical Physics* course at FMF.
 
 This project includes basic numerical code for computing the Green's function of a **radial plate** with spatially varying conductivity, denoted as $\sigma(r)$.
+[Full report (PDF)](https://github.com/sgodec/matfiz2/blob/main/report.pdf)
 
 ## Visualizations
 
